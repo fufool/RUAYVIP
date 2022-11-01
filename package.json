@@ -1,0 +1,15 @@
+{
+  "name": "RUAYVIP",
+  "main": "RUAYVIP",
+  "theme": "syntax",
+  "version": "1.1.11",
+  "description": "RUAY VIP รวย หวย เว็บซื้อหวยออนไลน์ จ่ายสูงสุดอันดับหนึ่ง",
+  "keywords": [
+    "RUAY"
+  ],
+  "repository": "https://github.com/fufool/RUAYVIP.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
